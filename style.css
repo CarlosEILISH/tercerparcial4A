@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(126, 120, 120);
+}
+header{
+    background-color: #EDF2F4;
+    padding: 25px;
+}
+nav{
+    background-color: #94f1a8;
+    padding: 10px;
+}
+section{
+    background-color: #94f1a8;
+}
+article{
+    background-color: ghostwhite;
+}
+aside{
+    background-color: aqua;
+    width: 30%;
+    float: right;
+}
+footer{
+    background-color: firebrick;
+}
